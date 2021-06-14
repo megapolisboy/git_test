@@ -1,0 +1,1 @@
+This is developer's first GIT project
